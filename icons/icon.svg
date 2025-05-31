@@ -7,31 +7,8 @@
    viewBox="0 0 135.46667 135.46666"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="bakalari_average.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="false"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="0.51213161"
-     inkscape:cx="117.15738"
-     inkscape:cy="303.63289"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <filter
@@ -39,9 +16,6 @@
        width="1.2944928"
        y="-0.12751911"
        height="1.2550382"
-       inkscape:menu-tooltip="Smooth rainbow colors melted along the edges and colorizable"
-       inkscape:menu="Textures"
-       inkscape:label="Tinted Rainbow"
        style="color-interpolation-filters:sRGB;"
        id="filter35">
       <feGaussianBlur
@@ -85,23 +59,10 @@
     </filter>
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1">
     <path
-       sodipodi:type="star"
        style="fill:#00a2e2;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter35)"
        id="path1"
-       inkscape:flatsided="true"
-       sodipodi:sides="6"
-       sodipodi:cx="-27.398523"
-       sodipodi:cy="46.029518"
-       sodipodi:r1="47.051773"
-       sodipodi:r2="40.748032"
-       sodipodi:arg1="0.52359878"
-       sodipodi:arg2="1.0471976"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
        d="m 13.349507,69.555405 -40.748031,23.525886 -40.74803,-23.525887 0,-47.051773 40.748031,-23.5258859 40.748031,23.5258869 z"
        transform="matrix(1.3163485,0,0,1.3163485,103.79934,7.1424415)" />
     <text
@@ -109,9 +70,7 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:89.0686px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none"
        x="31.215237"
        y="98.684639"
-       id="text1"
-       inkscape:label="text1"><tspan
-         sodipodi:role="line"
+       id="text1"><tspan
          id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.0686px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
          x="31.215237"

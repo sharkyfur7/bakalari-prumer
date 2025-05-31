@@ -1,12 +1,25 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Bakaláři průměr",
   "version": "1.0",
 
-  "description": "Zprůměruje známky v bakalářích, pokud vaše škola nepovolila tuto funkci přímo v bakalářích.",
+  "permissions": ["scripting", "activeTab"],
+
+  "author": "Sharky",
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "balakari_prumer@lowtide.dev"
+    }
+  },
+
+  "description": "Zprůměruje známky v Bakalářích, pokud vaše škola z neznámého důvodu nepovolila tuto funkci přímo v Bakalářích.",
 
   "icons": {
-    "48": "icons/icon.svg"
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "64": "icons/icon64.png",
+    "96": "icons/icon96.png"
   },
 
   "content_scripts": [
