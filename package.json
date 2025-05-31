@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "web-ext": "^8.7.1"
+  },
+  "scripts": {
+    "check": "web-ext lint",
+    "build": "npm run check; web-ext build --overwrite-dest --filename bakalari_prumer.zip"
+  }
+}
