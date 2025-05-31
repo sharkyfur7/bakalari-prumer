@@ -76,10 +76,9 @@ function main() {
     );
 
     // Zaokrouhlime na 2 desetinna mista
-    info_text_element.innerHTML = `Průměr: <b>${
+    info_text_element.innerText = `Průměr: ${
       Math.round(vazeny_prumer * 100) / 100
-    }
-      </b>`;
+    }`;
   }
 }
 
