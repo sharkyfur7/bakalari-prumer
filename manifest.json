@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Bakaláři průměr",
+  "version": "1.0",
+
+  "description": "Zprůměruje známky v bakalářích, pokud vaše škola nepovolila tuto funkci přímo v bakalářích.",
+
+  "icons": {
+    "48": "icons/icon.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.bakalari.cz/next/prubzna.aspx"],
+      "js": ["bakalari_average.js"]
+    }
+  ]
+}
